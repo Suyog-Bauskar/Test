@@ -1,0 +1,17 @@
+name: Basic workflow
+
+on:
+  pull_request:
+    branches: [main]
+
+jobs:
+  greet:
+    name: "Greetings"
+
+    runs-on:
+        - ubuntu-latest
+
+    steps:
+        - name: Send greeting
+          run: |
+            echo "Hello"
