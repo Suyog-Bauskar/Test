@@ -1,2 +1,3 @@
 New file
 Final test
+Check if workflow is running
