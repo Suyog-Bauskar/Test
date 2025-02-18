@@ -1,2 +1,4 @@
 New file
 Final test
+Check if workflow is running
+Added one more line as requested
